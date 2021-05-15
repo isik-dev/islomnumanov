@@ -1,2 +1,1 @@
-@islomnumanov
 My Personal Blog
